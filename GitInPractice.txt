@@ -1,10 +1,2 @@
-
-
-
-
-
-
-
-
-
-New file for the first commit!!! 
+Write funny joke for the chief editor!
+This is for the second commit!!!
