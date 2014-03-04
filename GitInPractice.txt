@@ -1,2 +1,4 @@
+First line changed!
 Write funny joke for the chief editor!
-This is for the second commit!!!
+This is for the second commit!!
+This is for the third!
